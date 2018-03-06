@@ -1,7 +1,7 @@
 {
   "name": "react-native-scaled-image",
   "version": "0.0.1",
-  "description": "Image component to add images without using both dimensions that scales them automatically. ",
+  "description": "Image component to add images without defining both both height and width that scales them automatically.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
