@@ -10,7 +10,7 @@ React Native Scaled Image is a wrapper of Image. With it, you can add images wit
 ## How to use
 
 ### Local images, passing only height:
-```
+```jsx
 import { Component } from 'react';
 import ScaledImage from 'react-native-scaled-image';
 
@@ -27,7 +27,7 @@ class CustomView extends Component {
 ```
 
 ### Local images, passing only width:
-```
+```jsx
 import { Component } from 'react';
 import ScaledImage from 'react-native-scaled-image';
 
@@ -44,7 +44,7 @@ class CustomView extends Component {
 ```
 
 ### Remote images:
-```
+```jsx
 import { Component } from 'react';
 import ScaledImage from 'react-native-scaled-image';
 
