@@ -2,15 +2,28 @@
   "name": "react-native-scaled-image",
   "version": "0.0.1",
   "description": "Image component to add images without defining both both height and width that scales them automatically.",
+  "tags": [
+    "react-native",
+    "image",
+    "scaled",
+    "scalable"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "german.stuarts@nan-labs.com",
+  "author": "German Stuarts <german.stuarts@nan-labs.com>",
   "license": "ISC",
   "peerDependencies": {
     "react": "16.2.0",
     "react-native": "0.50.3",
     "prop-types": "^15.5.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanlabs/react-native-scaled-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nanlabs/react-native-scaled-image/issues"
   }
 }
