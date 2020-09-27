@@ -10,7 +10,7 @@ class ScaledImage extends Component {
 		super(props);
 	}
 
-	componentWillMount(){
+	componentDidMount(){
 		if (this.props.source.uri){
 			Image.getSize(this.props.source.uri, (width, height) => {
 				this.setImageSize(width, height);
